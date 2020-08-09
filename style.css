@@ -1,6 +1,8 @@
-html, body {
-  min-height: 100%;
-  display: center;
+body {
+  font-family: 'Raleway', sans-serif;
+}
+h1 {
+  text-align: right;
 }
 
 #pic {
