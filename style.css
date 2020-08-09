@@ -4,10 +4,12 @@ body {
 
 h1 {
   text-align: right;
+  margin: 20px;
 }
 
 h3 {
   text-align: right;
+  margin: 20px;
 }
 
 #pic {
