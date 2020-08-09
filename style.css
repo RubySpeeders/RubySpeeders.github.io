@@ -8,7 +8,7 @@ body {
 h1 {
   text-align: right;
   margin: 20px;
-  border-style: hidden;
+  border-style: dashed;
 }
 
 h3 {
