@@ -2,7 +2,9 @@ html, body {
   min-height: 100%;
   display: center;
 }
-
+#pic {
+  border: 2px solid black;
+}
 .nobullets {
   list-style-type: none;
 }
