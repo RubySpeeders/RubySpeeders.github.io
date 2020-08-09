@@ -5,6 +5,7 @@ html, body {
 
 #pic {
   border: 2px solid #000000;
+  float: right;
 }
 
 .nobullets {
