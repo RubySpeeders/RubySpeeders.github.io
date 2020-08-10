@@ -37,6 +37,10 @@ h3 {
   list-style-type: none;
 }
 
+.right {
+  float: right;
+}
+  
 .results {
   list-style-type: none;
 }
