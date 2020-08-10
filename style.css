@@ -2,7 +2,7 @@ body {
   font-family: 'Lato', sans-serif;
   border-style: hidden;
   padding: 40px;
-  background-color: pink;
+  background-color: #fcd121;
 }
 
 h1 {
@@ -20,6 +20,11 @@ h3 {
 #pic {
   border: 2px solid #000000;
   float: right;
+}
+
+.auditionlist {
+  border-style: hidden;
+  
 }
 
 .nobullets {
