@@ -1,3 +1,7 @@
+html {
+  margin: 40px;
+}
+
 body {
   font-family: 'Lato', sans-serif;
   border-style: hidden;
