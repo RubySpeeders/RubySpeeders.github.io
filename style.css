@@ -24,6 +24,7 @@ h3 {
 
 .results{
   float: right;
+  list-style-type: none;
 }
 
 .auditionlist {
