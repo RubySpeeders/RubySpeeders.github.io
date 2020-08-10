@@ -1,14 +1,14 @@
 body {
   font-family: 'Raleway', sans-serif;
   border-style: hidden;
-  padding: 20px;
+  padding: 40px;
   margin: 20px;
 }
 
 h1 {
   text-align: right;
   margin: 20px;
-  border-style: dashed;
+  border-style: hidden;
 }
 
 h3 {
