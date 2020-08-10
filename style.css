@@ -26,7 +26,7 @@ h3 {
 }
 
 .results{
-  float: right;
+  display: inline;
   list-style-type: none;
   margin-right: 300px;
 }
