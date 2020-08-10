@@ -40,10 +40,6 @@ h3 {
 .right {
   float: right;
 }
-  
-.results {
-  list-style-type: none;
-}
 
 .nobullets {
   list-style-type: none;
