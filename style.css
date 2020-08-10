@@ -25,15 +25,8 @@ h3 {
   float: right;
 }
 
-.results{
-  display: inline;
+.results {
   list-style-type: none;
-  margin-right: 300px;
-}
-
-.auditionlist {
-  border-style: hidden;
-  
 }
 
 .nobullets {
