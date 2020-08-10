@@ -25,6 +25,10 @@ h3 {
   float: right;
 }
 
+.auditionlist {
+  list-style-type: none;
+}
+
 .results {
   list-style-type: none;
 }
